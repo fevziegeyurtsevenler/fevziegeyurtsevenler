@@ -1,85 +1,84 @@
-# 👋 Hi, I'm Fevzi Ege Yurtsevenler  
+<div align="center">
+  <img src="https://raw.githubusercontent.com/fevziege/altaysec-main/main/logo.jpg" width="120" style="border-radius: 20px; box-shadow: 0 0 30px rgba(168, 85, 247, 0.4);" />
+  
+  # ⚡ FEVZİ EGE YURTSEVENLER
+  ### **Founder & Lead Architect of [AltaySec Ecosystem](https://altaysec.com.tr)**
+  
+  <p align="center">
+    <img src="https://img.shields.io/badge/Strategy-Founder-A855F7?style=for-the-badge&logo=target&logoColor=white" />
+    <img src="https://img.shields.io/badge/Security-Researcher-red?style=for-the-badge&logo=hackthebox&logoColor=white" />
+    <img src="https://img.shields.io/badge/Development-Engineer-green?style=for-the-badge&logo=github&logoColor=white" />
+  </p>
 
-**Cybersecurity Researcher | Penetration Tester | Founder of AltaySec Academy**
-
-I’m a Computer Engineering student with a strong focus on cybersecurity, penetration testing and threat analysis.  
-I build tools, break systems, analyze threats, contribute to open-source and develop training platforms to make cybersecurity more accessible for everyone.
-
----
-
-## 🔒 About Me
-- Founder & Lead Instructor at **AltaySec Academy**, a free pentest training platform.  
-- Interested in **offensive security**, **CTF challenges**, **red teaming**, **mobile security** and **vulnerability research**.  
-- Experienced in **web**, **network**, and **mobile application** security testing.
-- Currently working on automating recon, scanning pipelines, and building hands-on security labs.
-
----
-
-## 🛠 Technical Skills
-**Pentesting:** Nmap, Gobuster, ffuf, ZAP, Burp Suite, Nikto, Nuclei, Osmedeus  
-**Mobile Security:** MobSF, static/dynamic analysis, Android internals  
-**Threat Intelligence:** MITRE ATT&CK, malware analysis basics, log analysis  
-**Scripting:** Python, Bash  
-**Tools I Use Daily:** Docker, Git, Linux, VS Code  
-**ML/Data:** Python ML stack, predictive modeling (via Google Advanced Data Analytics program)
+  *"Öğret, Oyna, Üret. Geleceği kodla, zekayı savun."*
+</div>
 
 ---
 
-## 🎯 Experience
+### 🛡️ THE VISION: ALTAYSEC 3.0
+Bir eğitim platformundan çok daha fazlası; Türkiye'nin teknoloji standardını belirleyecek bir **Dijital Teknoloji Hub'ı** inşa ediyorum.
 
-### **🌐 Penetration Testing Intern — Nesil Teknoloji**
-- Performed security testing on web applications and network infrastructures  
-- Conducted static and dynamic mobile app analysis  
-- Identified, reported and tracked vulnerabilities  
-- Used real-world pentest methodologies and tools  
-- Gained hands-on experience with threat modeling and remediation workflows  
-
----
-
-## 🏆 Certifications & Achievements
-- **SOC'24 (Türkiye Siber Güvenlik Kümelenmesi)** – Finished **6th** after 8-hour CTF  
-- **Siber Vatan Programı** – Passed CTF exam, selected among 40 participants for face-to-face training  
-- **Advanced Threat Intelligence & Threat Hunting (BTK Akademi)**  
-- **Siber Güvenlik Sızma Testi Eğitimi (Siber Vatan)**  
-- **Google Advanced Data Analytics Certificate**  
-- **Google Project Management Certificate**  
-- **Yapay Zeka ve Teknoloji Akademisi Mezunu**  
-- Finalist among **270+ teams** with the AI-based prenatal decision support system **Perisentez**
+- 🔴 **AltaySec Red:** Ofansif güvenlik omurgası ve Red Team operasyonları.
+- 🔵 **AltaySec Blue:** Milli savunma bilinci ve CTI (Tehdit İstihbaratı) kalkanı.
+- 🟢 **AltaySec Dev:** Güvenli yazılım ekosistemi ve mentorluk ağı.
+- 🟣 **AltaySec AI:** Siber güvenlik odaklı yerli yapay zeka ve inovasyon merkezi.
 
 ---
 
-## 🧪 Projects & Research
-### **🔹 AltaySec Academy**
-Free cybersecurity training platform featuring:
-- 10-module pentest curriculum  
-- Interactive labs  
-- Arcade-style learning  
-- Realistic CTF-like exercises  
-
-### **🔹 Perisentez — AI-Based Prenatal Decision Support System**
-Finalist project analyzing prenatal findings to predict genetic syndrome risks.
-
-### **🔹 Open-Source Security Tools (coming soon)**
-- Recon automation pipeline  
-- Custom Nuclei templates  
-- Web fuzzing helper tools  
-- Log analysis mini-framework  
+### 🚀 MILESTONES & ACHIEVEMENTS
+<div align="left">
+  <ul>
+    <li>🏆 <b>SOC'24 (Siber Kümelenme)</b> - 8 saatlik maratonda Türkiye <b>6.luğu.</b></li>
+    <li>⚡ <b>Siber Vatan Programı</b> - 270+ katılımcı arasından seçilen elit grupta eğitim.</li>
+    <li>🤖 <b>Perisentez</b> - AI tabanlı karar destek sistemi ile 270+ takım arasından <b>Finalist.</b></li>
+    <li>🐺 <b>AltaySec Academy</b> - 500+ üyeli ücretsiz siber güvenlik eğitim ekosisteminin kurucusu.</li>
+  </ul>
+</div>
 
 ---
 
-## 🎮 CTF & Community Work
-- Actively competes in CTFs (OSINT, Web, Forensics, Crypto)  
-- Publishes write-ups and research notes  
-- Contributes to cybersecurity communities and forums  
-- Interested in building open training environments for beginners
+### 🛠️ ARSENAL & SKILLS
+<p align="left">
+  <img src="https://img.shields.io/badge/Pentesting-Nmap%2C%20Burp%2C%20Nuclei%2C%20Metasploit-red?style=flat-square&logo=linux" />
+  <img src="https://img.shields.io/badge/Mobile-Android%20Internals%2C%20MobSF%2C%20Static%20Analysis-blue?style=flat-square&logo=android" />
+  <img src="https://img.shields.io/badge/AI_ML-Predictive%20Modeling%2C%20NLP%2C%20Security%20AI-purple?style=flat-square&logo=google" />
+  <img src="https://img.shields.io/badge/Languages-Python%2C%20Bash%2C%20JS%2C%20C%2B%2B-white?style=flat-square&logo=python" />
+</p>
 
 ---
 
-## 📫 Contact
-**Email:** egeyurtsevenler@gmail.com  
-**LinkedIn:** linkedin.com/in/fevziege  
-**Website / Academy:** altaysec.com.tr | akademi.altaysec.com.tr  
+### 📊 GITHUB REAL-TIME STATS
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fevziege&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fevziege&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fevziege&theme=tokyonight&hide_border=true&background=0D1117" width="91%" />
+</p>
 
 ---
 
-_Always learning. Always breaking. Always building._
+### 🧪 CURRENT PROJECTS
+- **[ai.altaysec.com.tr](https://ai.altaysec.com.tr):** Siber güvenlik odaklı yapay zeka kuluçka merkezi. (In Development)
+- **[AltaySec Toolkit](https://toolkit.altaysec.com.tr):** Herkes için erişilebilir siber güvenlik araç kiti.
+- **[Recon Pipeline]:** Otonom keşif ve zafiyet tarama otomasyonu (Coming Soon).
+
+---
+
+### 🌐 CONNECT WITH ME
+<p align="left">
+  <a href="https://linkedin.com/in/fevziegeyurtsevenler" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://altaysec.com.tr" target="_blank">
+    <img src="https://img.shields.io/badge/AltaySec-E21D24?style=for-the-badge&logo=wolf&logoColor=white" />
+  </a>
+  <a href="https://github.com/fevziege" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=fevziege&color=purple&style=flat-square&label=PROFILE+VIEWS" />
+</div>
