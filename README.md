@@ -1,49 +1,50 @@
 <div align="center">
-  <!-- Hareketli AltaySec Banner veya Logo -->
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=09090b&height=200&section=header&text=FEVZ%C4%B0%20EGE%20YURTSEVENLER&fontSize=50&animation=fadeIn&fontColor=ef4444" width="100%" />
+  <!-- Dinamik Vizyon Başlığı -->
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=09090b&height=200&section=header&text=FEVZ%C4%B0%20EGE%20YURTSEVENLER&fontSize=45&animation=fadeIn&fontColor=ef4444" width="100%" />
 
   <br/>
   
-  <img src="https://altaysec.com.tr/logo.jpg" width="140" style="border-radius: 28px; box-shadow: 0 0 20px rgba(239, 68, 68, 0.4);" />
+  <img src="https://altaysec.com.tr/logo.jpg" width="130" style="border-radius: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);" />
   
   <br/>
-  <h1> 🐺 FOUNDER OF ALTAYSEC </h1>
+  <h1>ALTAYSEC EKOSİSTEM KURUCUSU</h1>
   
-  <!-- Dinamik Daktilo Yazısı -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=ef4444&center=true&vCenter=true&width=600&lines=Siber+G%C3%BCvenlik+Mimari;AltaySec+Ekosistemi+Kurucusu;Cyber+Defense+Strategist;%C3%96%C4%9Fren.+Oyna.+%C3%9Cret." />
+  <!-- Animasyonlu Daktilo Metni -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3500&pause=1000&color=ef4444&center=true&vCenter=true&width=600&lines=Siber+Güvenlik+ve+Teknoloji+Ekosistemi;Bilgiye+Eriş,+Teknolojiyi+Üret,+Geleceği+Koru;Stratejik+Savunma+ve+İnovasyon+Mimarı;Öğren.+Oyna.+Üret." />
 
 </div>
 
 ---
 
-### 🛡️ THE ARCHITECT
-> *"Saldırgan zihniyetten siber savunma doktrinine, yapay zekadan güvenli yazılım eko-sistemine kadar tüm katmanlarda üretimi merkezliyoruz."*
+### MİMARİ VİZYON
+AltaySec ekosisteminin kurucusu ve baş mimarı olarak; siber güvenliği bir tüketim nesnesi olmaktan çıkarıp, yerli ve milli bir üretim modeline dönüştürüyorum. Ofansif güvenlik temelleri üzerine inşa ettiğim bu yapıda, Yapay Zeka’dan Güvenli Yazılım mimarilerine kadar her katmanda sürdürülebilir bir teknoloji enstitüsü kurguluyoruz. 
 
-AltaySec ekosisteminin kurucusu ve baş mimarı olarak, Türkiye'nin siber güvenlik ve teknoloji standartlarını yeniden tanımlayan bir dijital altyapı inşa ediyorum. Amacım; pasif tüketiciyi, aktif ve teknik bir üreticiye dönüştürmektir.
+Amacımız; teorik bilgiyi pratik uzmanlığa, uzmanlığı ise toplumsal teknik güce dönüştürmektir.
 
 ---
 
-### 🏛️ COMMAND CENTERS (DIVISIONS)
+### OPERASYONEL MERKEZLER
 
 | 🔴 RED CENTER | 🔵 BLUE CENTER | 🟢 DEV CENTER | 🟣 AI HUB |
 | :--- | :--- | :--- | :--- |
-| Ofansif Omurga | Savunma Kalkanı | Güvenli Yazılım | İnovasyon & Ar-Ge |
-| Red Team Kültürü | CTI & Tehdit Analizi | Mentorluk & Üretim | Yapay Zeka Güvenliği |
+| Ofansif Güvenlik | Siber Savunma | Güvenli Yazılım | İnovasyon & Ar-Ge |
+| Red Team Kültürü | Tehdit İstihbaratı | Güvenli Mimari | Yapay Zeka Güvenliği |
 
 ---
 
-### 🎖️ MILESTONES & BATTLE RECORD
-- ⚔️ **SOC'24 (TSGK)** — Türkiye 6.lığı (Finalist).
-- 🚩 **Siber Vatan** — Elit Operatör Grubu & Teknik Eğitmen.
-- 🧠 **Perisentez AI** — Karar Destek Sistemi Projektörü (Finalist).
-- 🎓 **AltaySec Academy** — 500+ Aktif Üyeli Dev Ekosistem.
+### TEKNİK ARSENAL
+AltaySec bünyesinde yürütülen Ar-Ge süreçleri ve teknik uzmanlık alanları:
+
+- **Ofansif Güvenlik:** Web, Ağ ve Mobil Sızma Testleri, Zafiyet Araştırmaları, Exploit Geliştirme.
+- **İstihbarat ve Analiz:** Tehdit Avcılığı, OSINT, CTI (Tehdit İstihbaratı) ve Zararlı Yazılım Analizi.
+- **Teknoloji ve Mimari:** Python, Go, Node.js, Yapay Zeka Tahminleme Modelleri, Docker ve Bulut Güvenliği.
 
 ---
 
-### 📊 TACTICAL STATISTICS
+### DİNAMİK İSTATİSTİKLER
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fevziegeyurtsevenler&show_icons=true&theme=tokyonight&hide_border=true&title_color=ef4444&icon_color=ef4444&text_color=a1a1aa&bg_color=09090b" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fevziegeyurtsevenler&layout=compact&theme=tokyonight&hide_border=true&title_color=ef4444&text_color=a1a1aa&bg_color=09090b" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fevziegeyurtsevenler&show_icons=true&theme=tokyonight&hide_border=true&title_color=ef4444&icon_color=ef4444&text_color=a1a1aa&bg_color=09090b" height="170em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fevziegeyurtsevenler&layout=compact&theme=tokyonight&hide_border=true&title_color=ef4444&text_color=a1a1aa&bg_color=09090b" height="170em" />
 </div>
 
 <br/>
@@ -54,11 +55,22 @@ AltaySec ekosisteminin kurucusu ve baş mimarı olarak, Türkiye'nin siber güve
 
 ---
 
-### ⚒️ TECHNICAL ARSENAL
-```javascript
-const arsenal = {
-  offensive: ["Pentesting", "Red Teaming", "Vuln Research", "Exploitation"],
-  intelligence: ["Threat Hunting", "OSINT", "CTI", "Malware Analysis"],
-  development: ["Python", "Go", "Node.js", "AI Modeling", "Docker", "Cloud"],
-  credo: "Öğren, Oyna, Üret."
-};
+### AKTİF PLATFORMLAR
+- **[AltaySec Ana Sayfa](https://altaysec.com.tr)** — Teknoloji ve Siber Güvenlik Ekosistemi
+- **[Aİ Hub](https://ai.altaysec.com.tr)** — Yapay Zeka Güvenliği ve İnovasyon Merkezi
+- **[Blue Center](https://blue.altaysec.com.tr)** — Siber Savunma ve Strateji Üssü
+- **[Dev Center](https://dev.altaysec.com.tr)** — Güvenli Yazılım ve Mentorluk Ağı
+
+---
+
+<div align="center">
+  <a href="https://linkedin.com/in/fevziegeyurtsevenler" target="_blank">LinkedIn</a> • 
+  <a href="https://altaysec.com.tr" target="_blank">AltaySec</a> • 
+  <a href="https://github.com/altaysec" target="_blank">AltaySec GitHub</a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=fevziegeyurtsevenler&color=ef4444&style=flat-square&label=PROFILE+VIEWS" />
+</div>
