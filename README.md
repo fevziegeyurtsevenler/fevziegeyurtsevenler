@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Dinamik Vizyon Başlığı -->
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=09090b&height=200&section=header&text=FEVZ%C4%B0%20EGE%20YURTSEVENLER&fontSize=45&animation=fadeIn&fontColor=ef4444" width="100%" />
+  
 
   <br/>
   
