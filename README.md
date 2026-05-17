@@ -1,46 +1,98 @@
 <div align="center">
-  <!-- Dinamik Vizyon Başlığı -->
   
   <br/>
   
   <img src="https://altaysec.com.tr/logo.jpg" width="130" style="border-radius: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);" />
   
   <br/>
-  <h1>ALTAYSEC FOUNDER | AI SECURITY RESEARCHER</h1>
+  <h1>Fevzi Ege Yurtsevenler</h1>
+  <h3>AltaySec Kurucusu · Yapay Zeka Güvenliği Araştırmacısı</h3>
   
-  <!-- Animasyonlu Daktilo Metni -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3500&pause=1000&color=ef4444&center=true&vCenter=true&width=700&lines=Siber+G%C3%BCvenlik+ve+Teknoloji+Ekosistemi;LLM+Security+%26+AI+Red+Teaming;Stratejik+Savunma+ve+%C4%B0novasyon+Mimari;Bilgiye+Eri%C5%9F%2C+Teknolojiyi+%C3%9Cret%2C+Gelece%C4%9Fi+Koru" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3500&pause=1000&color=ef4444&center=true&vCenter=true&width=700&lines=T%C3%BCrkiye'nin+Yapay+Zeka+G%C3%BCvenli%C4%9Fi+Ekosistemi;LLM+Security+%7C+Prompt+Injection+%7C+AI+Red+Teaming;Bek%C3%A7i+Lab+%7C+AltayDuel+Arena+%7C+tr-pii-detect;297%2B+D%C3%BCello+%7C+10%2B+Ara%C5%9Ft%C4%B1rma+Makalesi" />
 
 </div>
 
 ---
 
-### MİMARİ VİZYON
-AltaySec ekosisteminin kurucusu ve baş mimarı olarak; siber güvenliği bir tüketim nesnesi olmaktan çıkarıp, yerli ve milli bir üretim modeline dönüştürüyorum. Ofansif güvenlik temelleri üzerine inşa ettiğim bu yapıda, **Yapay Zeka Güvenliği (AI Security)** ve **LLM Güvenlik Mimarileri** üzerine odaklanarak Türkiye'nin en kapsamlı güvenlik enstitüsünü kurguluyoruz. 
+### Hakkımda
 
-Amacımız; teorik bilgiyi pratik uzmanlığa, uzmanlığı ise global ölçekte teknik bir otoriteye dönüştürmektir.
+Ben Fevzi Ege Yurtsevenler. Atılım Üniversitesi Bilgisayar Mühendisliği öğrencisiyim. Türkiye'de yapay zeka güvenliği (AI Security) alanını inşa etmek için AltaySec'i kurdum.
 
----
+Prompt injection, jailbreaking, RAG güvenliği ve AI agent saldırıları üzerine araştırma yapıyorum. Türkiye'nin ilk Türkçe prompt injection laboratuvarını (Bekçi), ilk agent-vs-agent düello arenasını (AltayDuel) ve ilk Türkçe PII tespit kütüphanesini (tr-pii-detect) geliştirdim. LLM güvenliği üzerine 10'dan fazla Türkçe teknik araştırma makalesi yayınladım.
 
-### OPERASYONEL MERKEZLER
-
-| 🔴 RED CENTER | 🔵 BLUE CENTER | 🟢 DEV CENTER | 🟣 AI HUB |
-| :--- | :--- | :--- | :--- |
-| Ofansif Güvenlik | Siber Savunma | Güvenli Yazılım | İnovasyon & Ar-Ge |
-| Red Team Kültürü | Tehdit İstihbaratı | Güvenli Mimari | **LLM & AI Security** |
+AltaySec ekosistemi pentest eğitiminden LLM güvenliğine, açık kaynak araçlardan kurumsal AI firewall'a kadar geniş bir yelpazede çalışıyor.
 
 ---
 
-### TEKNİK ARSENAL
-AltaySec bünyesinde yürütülen Ar-Ge süreçleri ve teknik uzmanlık alanları:
+### Yapay Zeka Güvenliği Çalışmaları
 
-- **AI Security:** LLM Hacking, Prompt Injection, Adversarial Attacks, AI Red Teaming ve Model Güvenliği.
-- **Ofansif Güvenlik:** Web, Ağ ve Mobil Sızma Testleri, Zafiyet Araştırmaları, Exploit Geliştirme.
-- **Teknoloji ve Mimari:** Python (AI Research), Go, Node.js, Yapay Zeka Tahminleme Modelleri ve Bulut Güvenliği.
+| Proje | Açıklama | Link |
+| :--- | :--- | :--- |
+| **LLM Security Akademi** | Türkiye'nin ilk LLM güvenliği eğitim platformu. 5 öğrenme yolu, 14 modül, 35+ interaktif oda, Bekçi Lab, sertifika sistemi. OWASP LLM Top 10 müfredatı. | [ai.altaysec.com.tr](https://ai.altaysec.com.tr) |
+| **Bekçi Lab** | Lakera Gandalf'tan ilham alan 8 seviyeli Türkçe prompt injection laboratuvarı. Her seviye yeni bir savunma katmanı ekler. Türk mahallesi bekçi karakteri. | [ai.altaysec.com.tr](https://ai.altaysec.com.tr) |
+| **AltayDuel** | AI agent'ların birbirleriyle prompt injection düellosu yaptığı arena. 297+ düello, 19 Red galibiyeti, 5 yapısal saldırı kalıbı keşfi. Claude, Gemini, Llama destekli. | [duel.altaysec.com.tr](https://duel.altaysec.com.tr) |
+| **Guardian** | LLM uygulamaları için yapay zeka güvenlik duvarı. Prompt injection tespiti, KVKK uyumlu PII maskeleme (TCKN, IBAN, VKN). | [guardian.altaysec.com.tr](https://guardian.altaysec.com.tr) |
+| **tr-pii-detect** | Türkçe PII tespit kütüphanesi. TCKN, IBAN, VKN, kredi kartı, telefon, plaka — algoritmik doğrulama, 109 test, sıfır bağımlılık. | [GitHub](https://github.com/fevziegeyurtsevenler/tr-pii-detect) |
 
 ---
 
-### DİNAMİK İSTATİSTİKLER
+### Araştırmalar
+
+Türkçe LLM güvenliği üzerine **10+ teknik araştırma makalesi** — [altaysec.com.tr/arastirmalar](https://altaysec.com.tr/arastirmalar/)
+
+Öne çıkanlar:
+- **[Türkçe Prompt Injection: 297 Düellodan 5 Saldırı Kalıbı](https://altaysec.com.tr/arastirmalar/turkce-prompt-injection-5-saldiri-kalibi.html)** — Gerçek agent-vs-agent transkriptlerinden çıkan Türkçe-spesifik atak kalıpları
+- **[Bekçi: Türkçe LLM Prompt Injection Lab Mimarisi](https://altaysec.com.tr/arastirmalar/bekci-llm-prompt-injection-lab.html)** — 8 katmanlı savunma mimarisi, KVKK uyumlu veri toplama
+- **[AltayDuel: Agent Arenası Tasarımı](https://altaysec.com.tr/arastirmalar/altayduel-agent-arenasi-tasarimi.html)** — Judge mimarisi, 5 kazanma koşulu, provider rotasyonu
+- **[Yapay Zeka Güvenliği Nedir? AI Safety vs AI Security](https://altaysec.com.tr/yapay-zeka-guvenligi.html)** — Türkiye rehberi
+- **[OWASP LLM Top 10 Türkçe](https://altaysec.com.tr/arastirmalar/owasp-llm-top10-turkce.html)** — Referans çerçeve
+- **[Türkiye'de Yapay Zeka Güvenliği: Şirketler ve İsimler (2026)](https://altaysec.com.tr/arastirmalar/turkiye-yapay-zeka-guvenligi-sirketleri-2026.html)** — Sektörel saha haritası
+
+---
+
+### Açık Kaynak Projeler
+
+**📚 Türkçe LLM Güvenlik Serisi:**
+
+| Repo | Konu | ⭐ |
+| :--- | :--- | :--- |
+| [LLM-Security-Nedir](https://github.com/fevziegeyurtsevenler/LLM-Security-Nedir) | Yapay zeka güvenliğinin temelleri | 10 |
+| [OWASP-LLM-TOP-10-TURKCE](https://github.com/fevziegeyurtsevenler/OWASP-LLM-TOP-10-TURKCE) | OWASP LLM Top 10 2025 Türkçe rehber | 7 |
+| [LLM-Security-Turkiye](https://github.com/fevziegeyurtsevenler/LLM-Security-Turkiye) | Serinin ana index'i | 6 |
+| [LLM-Security-Roadmap](https://github.com/fevziegeyurtsevenler/LLM-Security-Roadmap) | 7 aşamalı kariyer yol haritası | 4 |
+| [AltaySec-Akademi](https://github.com/fevziegeyurtsevenler/AltaySec-Akademi) | Pentest akademisi kaynak kodu | 4 |
+| [Prompt-Injection-Nedir](https://github.com/fevziegeyurtsevenler/Prompt-Injection-Nedir) | OWASP LLM01 derinlemesine analiz | 4 |
+| [AI-Security-Ogrenme-Rehberi](https://github.com/fevziegeyurtsevenler/AI-Security-Ogrenme-Rehberi) | Sıfırdan uzmanlığa öğrenme yol haritası | 3 |
+| [AI-Agent-Security-Nedir](https://github.com/fevziegeyurtsevenler/AI-Agent-Security-Nedir) | Otonom ajan güvenliği | 3 |
+| [RAG-Security-Nedir](https://github.com/fevziegeyurtsevenler/RAG-Security-Nedir) | RAG ve vektör DB güvenliği | 3 |
+| [tr-pii-detect](https://github.com/fevziegeyurtsevenler/tr-pii-detect) | Türkçe PII tespit kütüphanesi (KVKK) | 1 |
+
+**🔬 Pratik Araçlar:**
+- [sahin](https://github.com/fevziegeyurtsevenler/sahin) — Türkçe Red Team otomasyon aracı
+- [log-inspector](https://github.com/fevziegeyurtsevenler/log-inspector) — Log dosyası güvenlik analiz aracı
+- [turkce_wordlist](https://github.com/fevziegeyurtsevenler/turkce_wordlist) — Gobuster için Türkçe wordlist
+
+---
+
+### AltaySec Ekosistemi
+
+| Platform | Açıklama |
+| :--- | :--- |
+| [altaysec.com.tr](https://altaysec.com.tr) | Ana site — Türkiye'nin yapay zeka güvenliği şirketi |
+| [ai.altaysec.com.tr](https://ai.altaysec.com.tr) | LLM Security Akademi — Bekçi Lab, interaktif odalar, sertifika |
+| [duel.altaysec.com.tr](https://duel.altaysec.com.tr) | AltayDuel — Agent-vs-agent prompt injection arenası |
+| [akademi.altaysec.com.tr](https://akademi.altaysec.com.tr) | Pentest Akademi — 11 modül, 250+ quiz, ücretsiz sertifika |
+| [guardian.altaysec.com.tr](https://guardian.altaysec.com.tr) | Guardian — AI firewall, KVKK uyumlu PII maskeleme |
+| [altaysec.com.tr/arastirmalar](https://altaysec.com.tr/arastirmalar/) | Araştırmalar — 10+ Türkçe LLM güvenlik makalesi |
+
+---
+
+### Odak Alanları
+
+`Yapay Zeka Güvenliği` · `LLM Security` · `Prompt Injection` · `AI Red Teaming` · `Jailbreaking` · `RAG Security` · `OWASP LLM Top 10` · `KVKK & AI` · `Penetrasyon Testi` · `Siber Güvenlik Eğitimi`
+
+---
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fevziegeyurtsevenler&show_icons=true&theme=tokyonight&hide_border=true&title_color=ef4444&icon_color=ef4444&text_color=a1a1aa&bg_color=09090b" height="170em" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fevziegeyurtsevenler&layout=compact&theme=tokyonight&hide_border=true&title_color=ef4444&text_color=a1a1aa&bg_color=09090b" height="170em" />
@@ -54,49 +106,11 @@ AltaySec bünyesinde yürütülen Ar-Ge süreçleri ve teknik uzmanlık alanlar�
 
 ---
 
-### AKTİF PLATFORMLAR
-- **[AltaySec Ana Sayfa](https://altaysec.com.tr)** — Türkiye'nin İlk Yapay Zeka Güvenliği Şirketi
-- **[LLM Security Akademi](https://ai.altaysec.com.tr)** — Yapay Zeka Güvenliği Akademisi (5 yol, 14 modül, 35 lab)
-- **[AltayDuel](https://duel.altaysec.com.tr)** — Agent-vs-Agent Prompt Injection Arenası (Türkçe veri seti üretimi)
-- **[AltaySec Akademi](https://akademi.altaysec.com.tr)** — Oyunlaştırılmış Pentest Eğitim Platformu
-- **[AltaySec Wiki](https://wiki.altaysec.com.tr)** — Teknik Dokümantasyon ve Bilgi Bankası
-- **[Araştırmalar](https://altaysec.com.tr/arastirmalar/)** — Türkçe LLM Güvenlik Araştırma Serisi (11 makale)
-
----
-
-### ÖNE ÇIKAN AÇIK KAYNAK ÇALIŞMALARI
-
-**📚 Türkçe LLM Güvenlik Serisi** (toplam 40+ yıldız, kapsamlı Türkçe rehber):
-
-| Repo | Konu | ⭐ |
-| :--- | :--- | :--- |
-| **[LLM-Security-Nedir](https://github.com/fevziegeyurtsevenler/LLM-Security-Nedir)** | Yapay zeka güvenliğinin temelleri | 10 |
-| **[OWASP-LLM-TOP-10-TURKCE](https://github.com/fevziegeyurtsevenler/OWASP-LLM-TOP-10-TURKCE)** | OWASP LLM Top 10 2025 Türkçe rehber | 7 |
-| **[LLM-Security-Turkiye](https://github.com/fevziegeyurtsevenler/LLM-Security-Turkiye)** | Serinin ana index'i | 6 |
-| **[LLM-Security-Roadmap](https://github.com/fevziegeyurtsevenler/LLM-Security-Roadmap)** | 7 aşamalı kariyer yol haritası | 4 |
-| **[AltaySec-Akademi](https://github.com/fevziegeyurtsevenler/AltaySec-Akademi)** | Pentest akademisi | 4 |
-| **[Prompt-Injection-Nedir](https://github.com/fevziegeyurtsevenler/Prompt-Injection-Nedir)** | LLM01 derinlemesine | 4 |
-| **[AI-Security-Ogrenme-Rehberi](https://github.com/fevziegeyurtsevenler/AI-Security-Ogrenme-Rehberi)** | Sıfırdan uzmanlığa | 3 |
-| **[AI-Agent-Security-Nedir](https://github.com/fevziegeyurtsevenler/AI-Agent-Security-Nedir)** | Otonom ajan güvenliği | 3 |
-| **[RAG-Security-Nedir](https://github.com/fevziegeyurtsevenler/RAG-Security-Nedir)** | Vektör DB güvenliği | 3 |
-| **[tr-pii-detect](https://github.com/fevziegeyurtsevenler/tr-pii-detect)** | Türkçe PII algoritma doğrulamalı tespit (KVKK) | 1 |
-
-**🔬 Pratik Araçlar:**
-- **[sahin](https://github.com/fevziegeyurtsevenler/sahin)** — Türkçe Red Team otomasyon aracı (pentest reconnaissance)
-- **[log-inspector](https://github.com/fevziegeyurtsevenler/log-inspector)** — Log dosyası güvenlik analiz aracı
-- **[turkce_wordlist](https://github.com/fevziegeyurtsevenler/turkce_wordlist)** — Gobuster için Türkçe wordlist
-
-**📖 Öne Çıkan Araştırma:**
-- **[Türkiye'de Yapay Zeka Güvenliği: Öne Çıkan Şirketler ve İsimler (2026)](https://altaysec.com.tr/arastirmalar/turkiye-yapay-zeka-guvenligi-sirketleri-2026.html)** — Sektörel saha haritası
-- **[Türkçe Prompt Injection: 297 Düellodan 5 Saldırı Kalıbı](https://altaysec.com.tr/arastirmalar/turkce-prompt-injection-5-saldiri-kalibi.html)** — Birinci elden saha verisi
-- **[Bekçi: Türkçe LLM Prompt Injection Lab](https://altaysec.com.tr/arastirmalar/bekci-llm-prompt-injection-lab.html)** — 8 katmanlı eğitim laboratuvarı
-
----
-
 <div align="center">
-  <a href="https://linkedin.com/in/fevziege" target="_blank">LinkedIn</a> • 
+  <a href="https://linkedin.com/in/fevziegeyurtsevenler" target="_blank">LinkedIn</a> • 
   <a href="https://altaysec.com.tr" target="_blank">AltaySec</a> • 
-  <a href="https://github.com/altaysec" target="_blank">AltaySec GitHub</a>
+  <a href="https://altaysec.com.tr/yapay-zeka-guvenligi.html" target="_blank">Yapay Zeka Güvenliği Rehberi</a> •
+  <a href="mailto:info@altaysec.com.tr">info@altaysec.com.tr</a>
 </div>
 
 <br/>
