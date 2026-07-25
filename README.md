@@ -34,6 +34,8 @@ supply chain of skills, MCP servers and rules files.
 | **[uncloak](https://github.com/fevziegeyurtsevenler/uncloak)** | Zero-dependency, multilingual scanner that reveals **hidden prompt injection** (invisible Unicode, tool-poisoning, the lethal trifecta) in Agent Skills, MCP servers & rules files. Terminal · JSON · SARIF · GitHub Action. |
 | **[awesome-agent-supply-chain-security](https://github.com/fevziegeyurtsevenler/awesome-agent-supply-chain-security)** | Curated list of tools, research, standards & datasets for securing AI agent extensions. |
 | **[skills-in-the-wild](https://github.com/fevziegeyurtsevenler/skills-in-the-wild)** | An **open, reproducible audit** of real public agent extensions — dataset + findings + method, complementing closed-data vendor studies. |
+| **[llm-security-skills](https://github.com/fevziegeyurtsevenler/llm-security-skills)** | 7 Agent Skills that turn your coding agent into an LLM security reviewer (injection testing, OWASP LLM Top 10 audit, MCP/RAG review) — EN + TR. |
+| **[prompt-injection-corpus](https://github.com/fevziegeyurtsevenler/prompt-injection-corpus)** | Multilingual (EN + TR) prompt-injection & jailbreak technique corpus for defenders — every entry paired with its defense. |
 | **[AltaySec/turkish-llm-injection](https://huggingface.co/datasets/AltaySec/turkish-llm-injection)** | Turkish-language prompt-injection dataset on Hugging Face (non-English coverage is a common blind spot). |
 
 <sub>OWASP GenAI Security Project — merged contributor · research indexed on Zenodo.</sub>
