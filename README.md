@@ -8,7 +8,7 @@
   <h1>Fevzi Ege Yurtsevenler</h1>
   <h3>AltaySec Kurucusu · Yapay Zeka Güvenliği Araştırmacısı</h3>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3500&pause=1000&color=ef4444&center=true&vCenter=true&width=700&lines=T%C3%BCrkiye'nin+Yapay+Zeka+G%C3%BCvenli%C4%9Fi+Ekosistemi;LLM+Security+%7C+Prompt+Injection+%7C+AI+Red+Teaming;Bek%C3%A7i+Lab+%7C+AltayDuel+Arena+%7C+tr-pii-detect;297%2B+D%C3%BCello+%7C+10%2B+Ara%C5%9Ft%C4%B1rma+Makalesi" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3500&pause=1000&color=ef4444&center=true&vCenter=true&width=700&lines=T%C3%BCrkiye'nin+Yapay+Zeka+G%C3%BCvenli%C4%9Fi+Ekosistemi;LLM+Security+%7C+Prompt+Injection+%7C+AI+Red+Teaming;Bek%C3%A7i+Lab+%7C+AltayDuel+Arena+%7C+tr-pii-detect;297%2B+D%C3%BCello+%7C+10%2B+Ara%C5%9Ft%C4%B1rma+Makalesi;uncloak+%7C+Agent+Extension+Security+Scanner" />
 
 </div>
 
@@ -21,6 +21,22 @@ Ben Fevzi Ege Yurtsevenler. Atılım Üniversitesi Bilgisayar Mühendisliği ö�
 Prompt injection, jailbreaking, RAG güvenliği ve AI agent saldırıları üzerine araştırma yapıyorum. Türkiye'nin ilk Türkçe prompt injection laboratuvarını (Bekçi), ilk agent-vs-agent düello arenasını (AltayDuel) ve ilk Türkçe PII tespit kütüphanesini (tr-pii-detect) geliştirdim. LLM güvenliği üzerine 10'dan fazla Türkçe teknik araştırma makalesi yayınladım.
 
 AltaySec ekosistemi pentest eğitiminden LLM güvenliğine, açık kaynak araçlardan kurumsal AI firewall'a kadar geniş bir yelpazede çalışıyor.
+
+---
+
+### 🌍 Featured Open Source
+
+Multilingual-first tools & research on **AI agent extension security** — the fast-moving
+supply chain of skills, MCP servers and rules files.
+
+| Project | What it is |
+| :--- | :--- |
+| **[uncloak](https://github.com/fevziegeyurtsevenler/uncloak)** | Zero-dependency, multilingual scanner that reveals **hidden prompt injection** (invisible Unicode, tool-poisoning, the lethal trifecta) in Agent Skills, MCP servers & rules files. Terminal · JSON · SARIF · GitHub Action. |
+| **[awesome-agent-supply-chain-security](https://github.com/fevziegeyurtsevenler/awesome-agent-supply-chain-security)** | Curated list of tools, research, standards & datasets for securing AI agent extensions. |
+| **[skills-in-the-wild](https://github.com/fevziegeyurtsevenler/skills-in-the-wild)** | An **open, reproducible audit** of real public agent extensions — dataset + findings + method, complementing closed-data vendor studies. |
+| **[AltaySec/turkish-llm-injection](https://huggingface.co/datasets/AltaySec/turkish-llm-injection)** | Turkish-language prompt-injection dataset on Hugging Face (non-English coverage is a common blind spot). |
+
+<sub>OWASP GenAI Security Project — merged contributor · research indexed on Zenodo.</sub>
 
 ---
 
