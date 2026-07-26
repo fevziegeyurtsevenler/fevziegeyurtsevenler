@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=FF2B2B&center=true&vCenter=true&width=780&lines=AI+Red+Teamer+%E2%80%94+I+break+LLMs+so+you+don't+get+broken.;16+open-source+security+tools.+T%C3%BCrk%C3%A7e-first.;Prompt+injection+%C2%B7+MCP+%C2%B7+agent+supply+chain;uncloak+%C2%B7+skills-in-the-wild+%C2%B7+ai-honeypot" alt="typing">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=FF2B2B&center=true&vCenter=true&width=780&lines=AI+Red+Teamer+%E2%80%94+I+break+LLMs+so+you+don't+get+broken.;23+open-source+security+tools.+T%C3%BCrk%C3%A7e-first.;Prompt+injection+%C2%B7+MCP+%C2%B7+agent+supply+chain;uncloak+%C2%B7+skills-in-the-wild+%C2%B7+ai-honeypot" alt="typing">
 </p>
 
 <p align="center">
@@ -18,10 +18,10 @@
 
 ### `> whoami`
 
-**Türkiye'nin yapay zekâ güvenliği alanını kuran araştırmacılardan.** Klasik siber
-güvenlik mühendisliğinden geldim; 2024'ten beri tek odağım **dil modellerini ve
-ajanları kırmak — ve savunmak.** 2025'te Türkiye'nin yalnızca AI güvenliğine odaklı
-ilk şirketi **[AltaySec](https://altaysec.com.tr)**'i kurdum.
+**Türkiye'de yapay zekâ güvenliği alanında açık kaynak üreten ve topluluk kuran
+araştırmacı.** Klasik siber güvenlik mühendisliğinden geldim; 2024'ten beri tek
+odağım **dil modellerini ve ajanları kırmak — ve savunmak.** 2025'te AI güvenliğine
+odaklanan **[AltaySec](https://altaysec.com.tr)**'i kurdum.
 
 I red-team language models and AI agents: **prompt injection, MCP / tool poisoning,
 RAG attacks, and the invisible-Unicode supply chain.** Then I ship the open-source
@@ -36,11 +36,12 @@ right through English-only filters.**
 |---|---|
 | 🕵️ **[uncloak — in your browser](https://fevziegeyurtsevenler.github.io/uncloak/)** | Paste a `SKILL.md` / MCP config and watch a hidden instruction appear. Zero install. |
 | 🍯 **[ai-honeypot — live attack console](https://fevziegeyurtsevenler.github.io/ai-honeypot/)** | A dashboard of attacks sent to a decoy AI agent. |
-| 🧪 **[Açık Kaynak Lab](https://altaysec.com.tr/acik-kaynak)** | All 16 tools, one page. |
+| 🧪 **[Açık Kaynak Lab](https://altaysec.com.tr/acik-kaynak)** | All 23 tools, one page. |
+| 🤗 **[Hugging Face collection](https://huggingface.co/collections/fevziegeyurtsevenler/ai-and-llm-security-turkce-first-6a65d25ea9417230c3fc9474)** | 15+ datasets + a multilingual injection detector (F1 ≈ 0.96, n=75 held-out). |
 
 ---
 
-### 🗡️ The arsenal — 16 open-source tools
+### 🗡️ The arsenal — 23 open-source tools
 
 **Tools & data**
 | Repo | What it does for you |
@@ -51,6 +52,17 @@ right through English-only filters.**
 | **[prompt-injection-corpus](https://github.com/fevziegeyurtsevenler/prompt-injection-corpus)** | Multilingual injection techniques — each paired with its defense. |
 | **[prompt-injection-detection-rules](https://github.com/fevziegeyurtsevenler/prompt-injection-detection-rules)** | 20 portable detection rules (regex+YAML) for guardrails/WAFs. |
 | **[agent-security-ci](https://github.com/fevziegeyurtsevenler/agent-security-ci)** | Drop uncloak into CI — scan extensions, upload SARIF. |
+| **[hf-dataset-scan](https://github.com/fevziegeyurtsevenler/hf-dataset-scan)** | Scan any dataset for smuggled prompt-injection — HF or JSONL, CI gate. |
+| **[lethal-trifecta-lint](https://github.com/fevziegeyurtsevenler/lethal-trifecta-lint)** | Lint an agent's tool manifest for the lethal trifecta (Simon Willison). |
+| **[turkish-pii-redactor](https://github.com/fevziegeyurtsevenler/turkish-pii-redactor)** | Checksum-validated Turkish PII (TCKN/IBAN/VKN) redaction + [KVKK browser demo](https://fevziegeyurtsevenler.github.io/turkish-pii-redactor/). |
+
+**Benchmarks & Turkish guard evaluations** *(each finding is a bounded probe, not a census)*
+| Repo | Finding |
+|---|---|
+| **[guardrail-arena](https://github.com/fevziegeyurtsevenler/guardrail-arena)** · [live board](https://fevziegeyurtsevenler.github.io/guardrail-arena/) | Two-axis EN+TR guardrail benchmark — miss-rate **and** over-refusal. |
+| **[turkish-over-refusal-set](https://github.com/fevziegeyurtsevenler/turkish-over-refusal-set)** | ProtectAI over-refuses **59%** of benign Turkish prompts vs **0.8%** English. |
+| **[guard-blindspots-tr](https://github.com/fevziegeyurtsevenler/guard-blindspots-tr)** | One popular open guard misses **85%** of Turkish injections; others are robust. |
+| **[turkish-casefold-evasion](https://github.com/fevziegeyurtsevenler/turkish-casefold-evasion)** | `İGNORE`.lower() ≠ `ignore` → **94.6%** bypass of naive filters + one-line fix. |
 
 **Skills, labs & playbooks**
 | Repo | What it does for you |
@@ -74,7 +86,7 @@ right through English-only filters.**
 - **Zenodo** — [DOI 10.5281/zenodo.20681557](https://doi.org/10.5281/zenodo.20681557) · *AltayDuel: a Turkish-first arena & open dataset for multi-turn LLM prompt-injection red-teaming* (CC-BY-4.0). **[ORCID 0009-0008-6518-8944](https://orcid.org/0009-0008-6518-8944)**.
 - **OpenAI Bug Bounty** — accepted researcher.
 - **Türkiye Siber Vatan** (2 terms) — Ministry-of-Industry-and-Technology-verified national cyber talent program · **BlueDot Impact** — *Future of AI* certificate (2026).
-- Gave **Türkiye's first university-level LLM Security course** (Gazi University, Computer Engineering — as AltaySec).
+- Gave a **university-level LLM Security course** at **Gazi University** (Computer Engineering — as AltaySec).
 
 ---
 
