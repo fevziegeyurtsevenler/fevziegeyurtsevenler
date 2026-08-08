@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=FF2B2B&center=true&vCenter=true&width=780&lines=AI+Red+Teamer+%E2%80%94+I+break+LLMs+so+you+don't+get+broken.;23+open-source+security+tools.+T%C3%BCrk%C3%A7e-first.;Prompt+injection+%C2%B7+MCP+%C2%B7+agent+supply+chain;uncloak+%C2%B7+skills-in-the-wild+%C2%B7+ai-honeypot" alt="typing">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=FF2B2B&center=true&vCenter=true&width=780&lines=AI+Red+Teamer+%E2%80%94+I+break+LLMs+so+you+don't+get+broken.;60%2B+a%C3%A7%C4%B1k+kaynak+repo+%C2%B7+25%2B+g%C3%BCvenlik+arac%C4%B1.+T%C3%BCrk%C3%A7e-first.;OWASP+LLM+%2F+Agentic+Top+10+2026+%C2%B7+T%C3%BCrk%C3%A7e+edisyon;Prompt+injection+%C2%B7+MCP+%C2%B7+agent+supply+chain;uncloak+%C2%B7+skills-in-the-wild+%C2%B7+ai-honeypot" alt="typing">
 </p>
 
 <p align="center">
@@ -28,6 +28,8 @@ RAG attacks, and the invisible-Unicode supply chain.** Then I ship the open-sour
 tools to defend against them — **Turkish-first, because non-English attacks walk
 right through English-only filters.**
 
+Topluluk tarafında iki çatı: **[LLM-Security-Turkiye](https://github.com/fevziegeyurtsevenler/LLM-Security-Turkiye)** — Türkçe ekosistem hub'ı · **[awesome-ai-security-tr](https://github.com/fevziegeyurtsevenler/awesome-ai-security-tr)** — Türkçe AI güvenlik kaynak listesi (300+ doğrulanmış kaynak).
+
 ---
 
 ### ⚡ Live — try it right now
@@ -36,12 +38,25 @@ right through English-only filters.**
 |---|---|
 | 🕵️ **[uncloak — in your browser](https://fevziegeyurtsevenler.github.io/uncloak/)** | Paste a `SKILL.md` / MCP config and watch a hidden instruction appear. Zero install. |
 | 🍯 **[ai-honeypot — live attack console](https://fevziegeyurtsevenler.github.io/ai-honeypot/)** | A dashboard of attacks sent to a decoy AI agent. |
-| 🧪 **[Açık Kaynak Lab](https://altaysec.com.tr/acik-kaynak)** | All 23 tools, one page. |
+| 🧪 **[Açık Kaynak Lab](https://altaysec.com.tr/acik-kaynak)** | Open-source tools, one page. |
 | 🤗 **[Hugging Face collection](https://huggingface.co/collections/fevziegeyurtsevenler/ai-and-llm-security-turkce-first-6a65d25ea9417230c3fc9474)** | 15+ datasets + a multilingual injection detector (F1 ≈ 0.96, n=75 held-out). |
 
 ---
 
-### 🗡️ The arsenal — 23 open-source tools
+### 🇹🇷 OWASP 2026 — Türkçe first-mover
+
+*Unofficial community edition — 4 Ağustos 2026'da yayınlanan OWASP LLM/Agentic Top 10'un Türkçe edisyonları.*
+
+| Repo | Ne sunar |
+|---|---|
+| **[owasp-llm-top10-2026-tr](https://github.com/fevziegeyurtsevenler/owasp-llm-top10-2026-tr)** | LLM Top 10 2026 — Türkçe + makine-okunur edisyon, 2025→2026 değişim haritası. |
+| **[owasp-agentic-top10-2026-tr](https://github.com/fevziegeyurtsevenler/owasp-agentic-top10-2026-tr)** | Agentic Top 10 2026 (ASI01–ASI10) — Türkçe + makine-okunur, MITRE ATLAS eşlemeli. |
+| **[llm-top10-2026-selfcheck](https://github.com/fevziegeyurtsevenler/llm-top10-2026-selfcheck)** · [canlı](https://huggingface.co/spaces/fevziegeyurtsevenler/llm-top10-2026-selfcheck) | LLM01–LLM10 interaktif öz-değerlendirme (TR/EN). |
+| **[agentic-top10-selfcheck](https://github.com/fevziegeyurtsevenler/agentic-top10-selfcheck)** · [canlı](https://huggingface.co/spaces/fevziegeyurtsevenler/agentic-top10-selfcheck) | ASI01–ASI10 interaktif öz-değerlendirme, MITRE ATLAS eşlemeli (TR/EN). |
+
+---
+
+### 🗡️ The arsenal — 60+ repos · 25+ security tools
 
 **Tools & data**
 | Repo | What it does for you |
