@@ -30,9 +30,9 @@
  <rect width="720" height="340" fill="url(#fade)"/>
  <rect x="56" y="150" width="34" height="2" fill="#ff2b2b"/>
  <text x="56" y="92" fill="#ff3b3b" font-size="16" letter-spacing="6" font-family="monospace">ALTAYSEC  //  AI RED TEAM</text>
- <text x="54" y="158" fill="#f5f0f0" font-size="54" font-weight="800" letter-spacing="-1" font-family="'Segoe UI',Helvetica,Arial,sans-serif">FEVZI EGE YURTSEVENLER</text>
- <text x="56" y="200" fill="#d8cdcd" font-size="21" font-family="'Segoe UI',Helvetica,Arial,sans-serif">LLM &amp; AI güvenliği araştırmacısı · AltaySec kurucusu · Türkçe-öncelikli red teaming</text>
- <text x="56" y="248" fill="#ff5a5a" fill-opacity="0.92" font-size="14" letter-spacing="1.4" font-family="monospace">OWASP GenAI Contributor · Zenodo DOI · OpenAI Bug Bounty · Siber Vatan · ORCID</text>
+ <text x="54" y="158" fill="#f5f0f0" font-size="54" font-weight="800" letter-spacing="-1" font-family="'Segoe UI',Helvetica,Arial,sans-serif">FEVZİ EGE YURTSEVENLER</text>
+ <text x="56" y="200" fill="#d8cdcd" font-size="21" font-family="'Segoe UI',Helvetica,Arial,sans-serif">LLM &amp; AI güvenliği araştırmacısı · AltaySec kurucusu · Türkçe öncelikli red teaming</text>
+ <text x="56" y="248" fill="#ff5a5a" fill-opacity="0.92" font-size="14" letter-spacing="1.4" font-family="monospace">OWASP GenAI Contributor · Zenodo DOI · Siber Vatan · ORCID</text>
  <text x="56" y="286" fill="#8a7f7f" font-size="13" letter-spacing="1" font-family="monospace">prompt injection · MCP / agent security · RAG security · KVKK + EU AI Act</text>
 </g>
 </svg>
